@@ -96,40 +96,4 @@ while(level <= 5):
     if(state['status'] == "PLAYING"):
        print("IN PROGRESS")
     level = level+1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
